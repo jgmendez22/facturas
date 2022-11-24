@@ -3,6 +3,6 @@ CREATE TABLE IF NOT EXISTS product(
     descripcion VARCHAR(50)NOT NULL,
     brand VARCHAR(100),
     stock VARCHAR (8),
-    PRIMARY KEY (id),
+    PRIMARY KEY (id)
 
  );
